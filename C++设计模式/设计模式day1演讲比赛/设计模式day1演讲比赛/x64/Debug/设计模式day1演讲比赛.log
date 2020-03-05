@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\liyi\source\repos\设计模式day1演讲比赛\设计模式day1演讲比赛\main.cpp(89,45): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  设计模式day1演讲比赛.vcxproj -> C:\Users\liyi\source\repos\设计模式day1演讲比赛\x64\Debug\设计模式day1演讲比赛.exe
